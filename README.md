@@ -6,7 +6,7 @@ Welcome to my **Data Science and Analytics Projects**! This repository showcases
 
 ## 🔍 Table of Contents  
 1. [HR Analyst](#1-hr-analyst)
-2. [Netflix Dataset Analysis and Visualization](#3-netflix-dataset-analysis-and-visualization) 
+2. [Netflix Data Analysis](#3-netflix-data-analysis) 
 3. [SuperMart Grocery Sales](#2-supermart-grocery-sales)
 
 ---
