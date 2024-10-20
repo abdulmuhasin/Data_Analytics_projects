@@ -5,9 +5,9 @@ Welcome to my **Data Science and Analytics Projects**! This repository showcases
 ---
 
 ## 🔍 Table of Contents  
-1. [HR Analyst](#1-hr-analyst)  
-2. [Supermart Grocery Sales ML Project](#2-supermart-grocery-sales-ml-project)  
-3. [Netflix Dataset Analysis and Visualization](#3-netflix-dataset-analysis-and-visualization)  
+1. [HR Analyst](#1-hr-analyst)
+2. [Netflix Dataset Analysis and Visualization](#3-netflix-dataset-analysis-and-visualization) 
+3. [SuperMart Grocery Sales](#2-supermart-grocery-sales)
 
 ---
 
