@@ -3,7 +3,15 @@
 This project focuses on **exploring and analyzing grocery sales data** from a supermart. We’ll perform **feature engineering** and build a **machine learning model** to predict sales, gaining insights into trends that can help improve business decisions.
 
 ---
+## Overview
 
+This project focuses on using a dataset containing information about grocery sales at a supermart.We’ll explore this data, perform feature engineering, and build a machine learning model to predict sales
+The dataset includes columns such as Order ID,Customer Name,Category, Sub Category, City, Order Date, Region, Sales, Discount,Profit, State, month_no, Month, and year.
+On this ML Project performs EDA,Handling Outliers,Uses different visualization tools,Restructure Date column,label encoding for categorical values for convertion,Linear regression for model building,and check the MSE and R2 for perfection.
+At last the model is performs well
+MSE is 126.98 it lower MSE indicates better model performance. the MSE is relatively low, meaning the model's predictions are quite close to the actual values.R² value is closer to 1 indicate that the model explains most of the variance. An R² of 0.9617 means your model explains around 96% of the variance in the data.
+
+---
 ## 🎯 Objective  
 - Use a dataset containing information about grocery sales at a supermart.  
 - Perform **data exploration** and **feature engineering**.  
